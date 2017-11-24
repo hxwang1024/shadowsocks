@@ -42,4 +42,5 @@ chmod +x shadowsocks.sh
 
 
 Reference
+
 1.[teddysun](https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh)
